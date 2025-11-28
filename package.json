@@ -1,0 +1,13 @@
+{
+  "name": "exploring-devops",
+  "version": "1.0.0",
+  "description": "This is Md Junayed a ultra talented and quick learner and the most wanted genius in this world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
