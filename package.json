@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjunayed/mastering-github.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devjunayed/mastering-github/issues"
+  },
+  "homepage": "https://github.com/devjunayed/mastering-github#readme"
 }
